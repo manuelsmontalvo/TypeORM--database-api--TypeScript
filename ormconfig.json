@@ -1,0 +1,10 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "port": "5432",
+  "username": "manny",
+  "password": "undefined",
+  "database": "bank-app",
+  "entities": ["src/entities/**/*.ts"],
+  "synchronize": true
+}
